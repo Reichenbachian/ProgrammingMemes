@@ -25,7 +25,7 @@ SECRET_KEY = 'x7f7z8jdaxc&1j@xv0#doz($esq3#7n=dy=*1urxoxv(61j0v6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['student.andover.edu']
 
 
 # Application definition
