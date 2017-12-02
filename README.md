@@ -1,2 +1,2 @@
 # ProgrammingMemes
-Currently hosted at student.andover.edu
+Currently hosted at [student.andover.edu](http://student.andover.edu)
